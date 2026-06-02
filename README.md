@@ -1,1 +1,1 @@
-# AlzAssist---AI-based-Healthcare-System
+# AlzAssist - AI based-Healthcare-System
